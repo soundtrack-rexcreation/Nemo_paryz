@@ -1,0 +1,10 @@
+[
+  {
+    "in": "paryz.mscz",
+    "out": [
+      "paryz.pdf",
+      "paryz.flac",
+      "paryz.mid"
+    ]
+  }
+]
