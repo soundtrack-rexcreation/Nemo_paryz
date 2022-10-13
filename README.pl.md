@@ -1,6 +1,6 @@
 # Reksio i Kapitan Nemo: paryz
 
-![Status GitHub Workflow](https://img.shields.io/github/workflow/status/soundtrack-rexcreation/Nemo_paryz/workflow)
+![Status GitHub Workflow](https://img.shields.io/github/workflow/status/soundtrack-rexcreation/Nemo_paryz/Release)
 ![Łączna liczba pobrań](https://img.shields.io/github/downloads/soundtrack-rexcreation/Nemo_paryz/total?label=pobrania)
 ![Licencja](https://img.shields.io/github/license/soundtrack-rexcreation/Nemo_paryz?label=licencja)
 ![Ostatni numer wydania](https://img.shields.io/github/v/release/soundtrack-rexcreation/Nemo_paryz?label=wydanie)

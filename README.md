@@ -1,6 +1,6 @@
 # Rex and Captain Namo: paryz
 
-![GitHub Workflow status](https://img.shields.io/github/workflow/status/soundtrack-rexcreation/Nemo_paryz/workflow)
+![GitHub Workflow status](https://img.shields.io/github/workflow/status/soundtrack-rexcreation/Nemo_paryz/Release)
 ![Total download count](https://img.shields.io/github/downloads/soundtrack-rexcreation/Nemo_paryz/total)
 ![License](https://img.shields.io/github/license/soundtrack-rexcreation/Nemo_paryz)
 ![Latest release version](https://img.shields.io/github/v/release/soundtrack-rexcreation/Nemo_paryz)
